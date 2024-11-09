@@ -35,5 +35,6 @@ int main () {
     }
     cout<<"Thanks for you help :";
     cout<<"Please come back later:";
+    cout<<"hi dai";
 return 0;
 }
