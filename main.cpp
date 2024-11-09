@@ -33,5 +33,7 @@ int main () {
         cout << "Invalid operation!";
         break;
     }
+    cout<<"Thanks for you help :";
+    cout<<"Please come back later:";
 return 0;
 }
